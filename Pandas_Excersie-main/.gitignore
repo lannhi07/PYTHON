@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+
+.DS_Store
+__MACOSX/
+
+# This file is about 1GB uncompressed and is larger than GitHub's normal file limit.
+# Keep it locally to run the World Food Facts notebook, or use Git LFS if you need
+# to publish it with the repository.
+**/products.tsv
